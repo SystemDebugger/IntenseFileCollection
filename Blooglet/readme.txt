@@ -1,3 +1,4 @@
+
 Before installing the SysDeb Patched SOF Driver, you need to do the following:
 
 Run Command Prompt as an Administrator. You may do so by pressing the Windows/Start key and typing cmd, and clicking on the button that says "Run as Administrator."
